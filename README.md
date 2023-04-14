@@ -3,10 +3,10 @@
 
 
 
-[October Updated]: Latest exam questions added.
+[March Updated]: Latest exam questions added.
 
 you can get **DISCOUNT** by using below link. **LIMITED TIME **only
-https://www.udemy.com/course/CISSP-brain-dump/?couponCode=LIMITED50
+https://www.udemy.com/course/cissp-exam-practice/?couponCode=LIMITEDTIMEONLY
 
 
 Finally! Pass the **ISC2 - **CISSP** – Certified Information Systems Security Professional** exam.
@@ -56,3 +56,22 @@ Get this unbeatable offer today.
 Tags:
 
 **CISSP** | Certified Information security manager | **CISSP** Brain Dumps | **CISSP** Real Exam Questions | **CISSP** Dumps | **CISSP** Exam | **CISSP** Practice Questions | **CISSP** prep | **CISSP** Prep before Exam | **CISSP** quick recap before Exam | **CISSP** Questions | **CISSP** Exam Questions | CISSP guide
+
+    CISSP practice exam
+    CISSP certification
+    CISSP exam preparation
+    CISSP exam questions
+    CISSP exam tips
+    CISSP study guide
+    CISSP online course
+    Information security
+    Cybersecurity
+    Risk management
+    Asset security
+    Security engineering
+    Communication and network security
+    Identity and access management (IAM)
+    Security assessment and testing
+    Security operations
+    Software development security
+    Udemy CISSP course.
