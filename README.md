@@ -6,7 +6,7 @@
 [March Updated]: Latest exam questions added.
 
 you can get **DISCOUNT** by using below link. **LIMITED TIME **only
-https://www.udemy.com/course/cissp-prep/?couponCode=LIMITED
+**https://www.udemy.com/course/c-information-system-security-professional-practice-exam/?couponCode=LIMITEDFORNOV**
 
 
 Finally! Pass the **ISC2 - **CISSP** – Certified Information Systems Security Professional** exam.
