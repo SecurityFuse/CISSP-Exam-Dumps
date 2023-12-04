@@ -1,12 +1,12 @@
 # **CISSP**-Exam-Dumps
 **CISSP** Exam Practice Questions
 
+Found dollowing amazing repo on internet. IT is the goldmine of CISSP question.
 
-
-[March Updated]: Latest exam questions added.
+[DEC23 Updated]: Latest exam questions added.
 
 you can get **DISCOUNT** by using below link. **LIMITED TIME **only
-**https://www.udemy.com/course/c-information-system-security-professional-practice-exam/?couponCode=LIMITEDFORNOV**
+**https://www.udemy.com/course/c-information-system-security-professional-practice-exam/?couponCode=LIMITEDFORDEC**
 
 
 Finally! Pass the **ISC2 - **CISSP** – Certified Information Systems Security Professional** exam.
